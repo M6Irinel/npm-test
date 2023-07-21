@@ -1,14 +1,12 @@
 {
   "name": "m7irinel-test",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "It's a test",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [
-    "WDS"
-  ],
+  "keywords": [],
   "author": "Web Dev Simplified",
   "license": "ISC",
   "repository": {
